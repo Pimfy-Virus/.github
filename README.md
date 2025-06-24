@@ -16,7 +16,7 @@ We are a passionate group of developers building something amazing.
 ### 🙌 Team Members
 - @SooinJung
 - @SeobinYoon
-- @Teammate2
+- @JinseongHwang
 
 ### commit message
 
